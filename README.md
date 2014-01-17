@@ -1,7 +1,7 @@
-# Synchronizace procesů
+IOS: Synchronizace
+====================================
+Projekt do předmětu Operační systémy (2. semestr FIT VUT) ve stavu, v jakém byl odevzdán k hodnocení.
 
-Projekty jsou zde v takovém stavu, ve kterém jsem je odevzdával k hodnocení.
-
-## Hodnocení
-
+### Hodnocení
 15/15
+
